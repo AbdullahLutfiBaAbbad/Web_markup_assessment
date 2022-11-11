@@ -1,5 +1,5 @@
 Student name: Abdullah Luttfi Ba abbad
 Student number: 699822 
 Student class: 1ITE
-URL student GitHub website: https://AbdullahLutfiBaAbbad.github.io
+URL student GitHub website: https://AbdullahLutfiBaAbbad.github.io/Web_markup_assessment
 URL student GitHub repository: https://github.com/AbdullahLutfiBaAbbad/Web_markup_assessment
