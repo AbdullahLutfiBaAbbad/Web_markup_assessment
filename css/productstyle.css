@@ -75,7 +75,7 @@ aside {
 .productarticle > p {	text-indent: 2em;word-spacing: 2px;}
 
 #article1 {background:#ece9e9;grid-area: article1Tag;}
-#article2 {background:#e5e3e3;grid-area: article2Tag;}
+#article2 {background:#FFC72B;grid-area: article2Tag;}
 #article3 {background:#e8e8cc;grid-area: article3Tag;}
 #article4 {background:#daeef4;grid-area: article4Tag;}
 #article5 {background:#e6f9ec;grid-area: article5Tag;}
